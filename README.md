@@ -1,4 +1,4 @@
-# Java - Demo Web Application
+# Java - Demo Web Application v.1.0.0
 
 This is a simple Java web app built using Spring Boot and OpenJDK 11.
 
